@@ -1,7 +1,0 @@
-{
-  "/animated-beam/page": "app/animated-beam/page.js",
-  "/animated-list/page": "app/animated-list/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/orbiting-circles/page": "app/orbiting-circles/page.js",
-  "/terminal/page": "app/terminal/page.js"
-}

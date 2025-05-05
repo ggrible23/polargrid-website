@@ -12,7 +12,7 @@ const nextConfig: NextConfig = {
 
   // 4. if you plan to serve your JS/CSS from a CDN or Webflow assets,
   //    prefix all <script> and <link> URLs at runtime
-  // assetPrefix: "https://cdn.prod.website-files.com/681536661f864cbf90057f70",
+  assetPrefix: "https://ggrible23.github.io/polargrid-website/build",
 
   // 5. if you use next/image, disable its built-in optimization in export
   images: {
